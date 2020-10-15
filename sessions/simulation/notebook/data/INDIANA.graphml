@@ -1,0 +1,773 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d5" for="node" attr.name="inventor_gender" attr.type="string"/>
+<key id="d4" for="node" attr.name="inventor_full_name" attr.type="string"/>
+<key id="d3" for="node" attr.name="inventor_last_name" attr.type="string"/>
+<key id="d2" for="node" attr.name="inventor_first_name" attr.type="string"/>
+<key id="d1" for="graph" attr.name="name" attr.type="string"/>
+<key id="d0" for="graph" attr.name="assignee_id" attr.type="string"/>
+<graph edgedefault="undirected"><data key="d0">org_gCHgholcypwXAN387I44</data>
+<data key="d1">INDIANA</data>
+<node id="5905258-1">
+  <data key="d2">David E.</data>
+  <data key="d3">Clemmer</data>
+  <data key="d4">David E. Clemmer</data>
+  <data key="d5">male</data>
+</node>
+<node id="4451396-1">
+  <data key="d2">Richard D.</data>
+  <data key="d3">DiMarchi</data>
+  <data key="d4">Richard D. DiMarchi</data>
+  <data key="d5">male</data>
+</node>
+<node id="7294830-2">
+  <data key="d2">Steven J.</data>
+  <data key="d3">Ray</data>
+  <data key="d4">Steven J. Ray</data>
+  <data key="d5">male</data>
+</node>
+<node id="4462685-2">
+  <data key="d2">Gary M.</data>
+  <data key="d3">Hieftje</data>
+  <data key="d4">Gary M. Hieftje</data>
+  <data key="d5">male</data>
+</node>
+<node id="6236877-1">
+  <data key="d2">Ann E.</data>
+  <data key="d3">Elsner</data>
+  <data key="d4">Ann E. Elsner</data>
+  <data key="d5">female</data>
+</node>
+<node id="5116864-2">
+  <data key="d2">David R.</data>
+  <data key="d3">Hathaway</data>
+  <data key="d4">David R. Hathaway</data>
+  <data key="d5">male</data>
+</node>
+<node id="7997553-1">
+  <data key="d2">Terry</data>
+  <data key="d3">Sloan</data>
+  <data key="d4">Terry Sloan</data>
+  <data key="d5">male</data>
+</node>
+<node id="6251388-1">
+  <data key="d2">Donald L.</data>
+  <data key="d3">Durden</data>
+  <data key="d4">Donald L. Durden</data>
+  <data key="d5">male</data>
+</node>
+<node id="4919140-1">
+  <data key="d2">Richard B.</data>
+  <data key="d3">Borgens</data>
+  <data key="d4">Richard B. Borgens</data>
+  <data key="d5">male</data>
+</node>
+<node id="4156207-1">
+  <data key="d2">James P.</data>
+  <data key="d3">Reilly</data>
+  <data key="d4">James P. Reilly</data>
+  <data key="d5">male</data>
+</node>
+<node id="7724373-2">
+  <data key="d2">Bogdan</data>
+  <data key="d3">Dragnea</data>
+  <data key="d4">Bogdan Dragnea</data>
+  <data key="d5">male</data>
+</node>
+<node id="7618806-2">
+  <data key="d2">Matthew S.</data>
+  <data key="d3">Thompson</data>
+  <data key="d4">Matthew S. Thompson</data>
+  <data key="d5">male</data>
+</node>
+<node id="7724373-3">
+  <data key="d2">Dragos</data>
+  <data key="d3">Amarie</data>
+  <data key="d4">Dragos Amarie</data>
+  <data key="d5">male</data>
+</node>
+<node id="7893408-7">
+  <data key="d2">Jacob T.</data>
+  <data key="d3">Shelley</data>
+  <data key="d4">Jacob T. Shelley</data>
+  <data key="d5">male</data>
+</node>
+<node id="6303029-1">
+  <data key="d2">David</data>
+  <data key="d3">Nurok</data>
+  <data key="d4">David Nurok</data>
+  <data key="d5">male</data>
+</node>
+<node id="7348005-1">
+  <data key="d2">David S.</data>
+  <data key="d3">Wilkes, Jr.</data>
+  <data key="d4">David S. Wilkes, Jr.</data>
+  <data key="d5">male</data>
+</node>
+<node id="4043905-1">
+  <data key="d2">Milos V.</data>
+  <data key="d3">Novotny</data>
+  <data key="d4">Milos V. Novotny</data>
+  <data key="d5">male</data>
+</node>
+<node id="8329143-3">
+  <data key="d2">Ruben M.</data>
+  <data key="d3">Sandoval, Jr.</data>
+  <data key="d4">Ruben M. Sandoval, Jr.</data>
+  <data key="d5">male</data>
+</node>
+<node id="6514995-2">
+  <data key="d2">Diwan Singh</data>
+  <data key="d3">Rawat</data>
+  <data key="d4">Diwan Singh Rawat</data>
+  <data key="d5">male</data>
+</node>
+<node id="7838821-5">
+  <data key="d2">Samuel I.</data>
+  <data key="d3">Merenbloom</data>
+  <data key="d4">Samuel I. Merenbloom</data>
+  <data key="d5">male</data>
+</node>
+<node id="8076298-3">
+  <data key="d2">Bruce A.</data>
+  <data key="d3">Molitoris</data>
+  <data key="d4">Bruce A. Molitoris</data>
+  <data key="d5">male</data>
+</node>
+<node id="6064180-4">
+  <data key="d2">Russell C.</data>
+  <data key="d3">Eberhart</data>
+  <data key="d4">Russell C. Eberhart</data>
+  <data key="d5">male</data>
+</node>
+<node id="7560241-2">
+  <data key="d2">Che-Hong</data>
+  <data key="d3">Chen</data>
+  <data key="d4">Che-Hong Chen</data>
+  <data key="d5">male</data>
+</node>
+<node id="6063575-2">
+  <data key="d2">Linda H.</data>
+  <data key="d3">Malkas</data>
+  <data key="d4">Linda H. Malkas</data>
+  <data key="d5">female</data>
+</node>
+<node id="6659613-2">
+  <data key="d2">Larry N.</data>
+  <data key="d3">Thibos</data>
+  <data key="d4">Larry N. Thibos</data>
+  <data key="d5">male</data>
+</node>
+<node id="7838821-4">
+  <data key="d2">Zachary</data>
+  <data key="d3">Henson</data>
+  <data key="d4">Zachary Henson</data>
+  <data key="d5">male</data>
+</node>
+<node id="7893408-3">
+  <data key="d2">Francisco J.</data>
+  <data key="d3">Andrade</data>
+  <data key="d4">Francisco J. Andrade</data>
+  <data key="d5">male</data>
+</node>
+<node id="5116864-1">
+  <data key="d2">Keith L.</data>
+  <data key="d3">March</data>
+  <data key="d4">Keith L. March</data>
+  <data key="d5">male</data>
+</node>
+<node id="7724373-1">
+  <data key="d2">James A.</data>
+  <data key="d3">Glazier</data>
+  <data key="d4">James A. Glazier</data>
+  <data key="d5">male</data>
+</node>
+<node id="7199110-2">
+  <data key="d2">Scott A.</data>
+  <data key="d3">Shapiro</data>
+  <data key="d4">Scott A. Shapiro</data>
+  <data key="d5">male</data>
+</node>
+<node id="6514995-1">
+  <data key="d2">Jeffrey M.</data>
+  <data key="d3">Zaleski</data>
+  <data key="d4">Jeffrey M. Zaleski</data>
+  <data key="d5">male</data>
+</node>
+<node id="6670195-2">
+  <data key="d2">Ruben</data>
+  <data key="d3">Vidal</data>
+  <data key="d4">Ruben Vidal</data>
+  <data key="d5">male</data>
+</node>
+<node id="8190299-8">
+  <data key="d2">Xiaohui</data>
+  <data key="d3">Hu</data>
+  <data key="d4">Xiaohui Hu</data>
+  <data key="d5">male</data>
+</node>
+<node id="6303029-2">
+  <data key="d2">Megan</data>
+  <data key="d3">Frost</data>
+  <data key="d4">Megan Frost</data>
+  <data key="d5">female</data>
+</node>
+<node id="5580958-2">
+  <data key="d2">Michael J.</data>
+  <data key="d3">Klemsz</data>
+  <data key="d4">Michael J. Klemsz</data>
+  <data key="d5">male</data>
+</node>
+<node id="5879883-4">
+  <data key="d2">Bernardino</data>
+  <data key="d3">Ghetti</data>
+  <data key="d4">Bernardino Ghetti</data>
+  <data key="d5">male</data>
+</node>
+<node id="6630138-3">
+  <data key="d2">Bryan Edward</data>
+  <data key="d3">Jones</data>
+  <data key="d4">Bryan Edward Jones</data>
+  <data key="d5">male</data>
+</node>
+<node id="6303134-1">
+  <data key="d2">Michael J.</data>
+  <data key="d3">Kubek</data>
+  <data key="d4">Michael J. Kubek</data>
+  <data key="d5">male</data>
+</node>
+<node id="7893408-6">
+  <data key="d2">Gerardo</data>
+  <data key="d3">Gamez</data>
+  <data key="d4">Gerardo Gamez</data>
+  <data key="d5">male</data>
+</node>
+<node id="7893408-5">
+  <data key="d2">Michael R.</data>
+  <data key="d3">Webb</data>
+  <data key="d4">Michael R. Webb</data>
+  <data key="d5">male</data>
+</node>
+<node id="7186507-2">
+  <data key="d2">Rajesh</data>
+  <data key="d3">Kher</data>
+  <data key="d4">Rajesh Kher</data>
+  <data key="d5">male</data>
+</node>
+<node id="4898814-1">
+  <data key="d2">Byoung S.</data>
+  <data key="d3">Kwon</data>
+  <data key="d4">Byoung S. Kwon</data>
+  <data key="d5">female</data>
+</node>
+<node id="5625186-4">
+  <data key="d2">Robert E.</data>
+  <data key="d3">Santini</data>
+  <data key="d4">Robert E. Santini</data>
+  <data key="d5">male</data>
+</node>
+<node id="7758882-2">
+  <data key="d2">Charles H.</data>
+  <data key="d3">Turner</data>
+  <data key="d4">Charles H. Turner</data>
+  <data key="d5">male</data>
+</node>
+<node id="7838821-3">
+  <data key="d2">Fabiane M.</data>
+  <data key="d3">Nachtigall</data>
+  <data key="d4">Fabiane M. Nachtigall</data>
+  <data key="d5">female</data>
+</node>
+<node id="8260009-2">
+  <data key="d2">Craig S.</data>
+  <data key="d3">Belcher</data>
+  <data key="d4">Craig S. Belcher</data>
+  <data key="d5">male</data>
+</node>
+<node id="7838821-2">
+  <data key="d2">Ruwan T.</data>
+  <data key="d3">Kurulugama</data>
+  <data key="d4">Ruwan T. Kurulugama</data>
+  <data key="d5">male</data>
+</node>
+<node id="5752482-4">
+  <data key="d2">Bryce D.</data>
+  <data key="d3">Himebaugh</data>
+  <data key="d4">Bryce D. Himebaugh</data>
+  <data key="d5">male</data>
+</node>
+<node id="5519003-1">
+  <data key="d2">Daria D.</data>
+  <data key="d3">Mochly-Rosen</data>
+  <data key="d4">Daria D. Mochly-Rosen</data>
+  <data key="d5">female</data>
+</node>
+<node id="7893408-4">
+  <data key="d2">William C.</data>
+  <data key="d3">Wetzel</data>
+  <data key="d4">William C. Wetzel</data>
+  <data key="d5">male</data>
+</node>
+<node id="4992373-3">
+  <data key="d2">Brian</data>
+  <data key="d3">Grinnell</data>
+  <data key="d4">Brian Grinnell</data>
+  <data key="d5">male</data>
+</node>
+<node id="7968345-1">
+  <data key="d2">Pilsoo</data>
+  <data key="d3">Kang</data>
+  <data key="d4">Pilsoo Kang</data>
+  <data key="d5">male</data>
+</node>
+<node id="7186507-1">
+  <data key="d2">Robert</data>
+  <data key="d3">Bacallao</data>
+  <data key="d4">Robert Bacallao</data>
+  <data key="d5">male</data>
+</node>
+<node id="8260009-1">
+  <data key="d2">Yingzi</data>
+  <data key="d3">Du</data>
+  <data key="d4">Yingzi Du</data>
+  <data key="d5">male</data>
+</node>
+<node id="6437325-2">
+  <data key="d2">Noah P.</data>
+  <data key="d3">Christian</data>
+  <data key="d4">Noah P. Christian</data>
+  <data key="d5">male</data>
+</node>
+<node id="6881588-2">
+  <data key="d2">Yehia S.</data>
+  <data key="d3">Mechref</data>
+  <data key="d4">Yehia S. Mechref</data>
+  <data key="d5">male</data>
+</node>
+<node id="7981667-2">
+  <data key="d2">Robert E.</data>
+  <data key="d3">Bailey</data>
+  <data key="d4">Robert E. Bailey</data>
+  <data key="d5">male</data>
+</node>
+<node id="7727249-1">
+  <data key="d2">Emad Y.</data>
+  <data key="d3">Rahmani</data>
+  <data key="d4">Emad Y. Rahmani</data>
+  <data key="d5">male</data>
+</node>
+<node id="7838821-6">
+  <data key="d2">Stephen J.</data>
+  <data key="d3">Valentine</data>
+  <data key="d4">Stephen J. Valentine</data>
+  <data key="d5">male</data>
+</node>
+<node id="7758882-1">
+  <data key="d2">Ryan K.</data>
+  <data key="d3">Roeder</data>
+  <data key="d4">Ryan K. Roeder</data>
+  <data key="d5">male</data>
+</node>
+<node id="6468808-1">
+  <data key="d2">Shuming</data>
+  <data key="d3">Nie</data>
+  <data key="d4">Shuming Nie</data>
+  <data key="d5">male</data>
+</node>
+<node id="4251439-2">
+  <data key="d2">David L.</data>
+  <data key="d3">Smiley</data>
+  <data key="d4">David L. Smiley</data>
+  <data key="d5">male</data>
+</node>
+<node id="7736517-4">
+  <data key="d2">Gregory L.</data>
+  <data key="d3">Hawkins</data>
+  <data key="d4">Gregory L. Hawkins</data>
+  <data key="d5">male</data>
+</node>
+<node id="8057421-1">
+  <data key="d2">Ajibola George</data>
+  <data key="d3">Akingba</data>
+  <data key="d4">Ajibola George Akingba</data>
+  <data key="d5">male</data>
+</node>
+<node id="8124389-3">
+  <data key="d2">Thomas D.</data>
+  <data key="d3">Hurley</data>
+  <data key="d4">Thomas D. Hurley</data>
+  <data key="d5">male</data>
+</node>
+<node id="5900928-2">
+  <data key="d2">Benno L.</data>
+  <data key="d3">Petrig</data>
+  <data key="d4">Benno L. Petrig</data>
+  <data key="d5">male</data>
+</node>
+<node id="5016643-1">
+  <data key="d2">Raymond A.</data>
+  <data key="d3">Applegate</data>
+  <data key="d4">Raymond A. Applegate</data>
+  <data key="d5">male</data>
+</node>
+<node id="6063575-3">
+  <data key="d2">Robert J.</data>
+  <data key="d3">Hickey</data>
+  <data key="d4">Robert J. Hickey</data>
+  <data key="d5">male</data>
+</node>
+<node id="7102878-1">
+  <data key="d2">Weiming</data>
+  <data key="d3">Yu</data>
+  <data key="d4">Weiming Yu</data>
+  <data key="d5">male</data>
+</node>
+<node id="7294471-5">
+  <data key="d2">Derek J.</data>
+  <data key="d3">Hoelz</data>
+  <data key="d4">Derek J. Hoelz</data>
+  <data key="d5">male</data>
+</node>
+<node id="6468808-3">
+  <data key="d2">Stephen R.</data>
+  <data key="d3">Emory</data>
+  <data key="d4">Stephen R. Emory</data>
+  <data key="d5">male</data>
+</node>
+<node id="5116864-4">
+  <data key="d2">Brian L.</data>
+  <data key="d3">Patton</data>
+  <data key="d4">Brian L. Patton</data>
+  <data key="d5">male</data>
+</node>
+<node id="7997553-2">
+  <data key="d2">Earl W.</data>
+  <data key="d3">Starks</data>
+  <data key="d4">Earl W. Starks</data>
+  <data key="d5">male</data>
+</node>
+<node id="7736517-3">
+  <data key="d2">Randall W.</data>
+  <data key="d3">Replogle</data>
+  <data key="d4">Randall W. Replogle</data>
+  <data key="d5">male</data>
+</node>
+<node id="7736517-5">
+  <data key="d2">James M.</data>
+  <data key="d3">Koers</data>
+  <data key="d4">James M. Koers</data>
+  <data key="d5">male</data>
+</node>
+<node id="5686278-2">
+  <data key="d2">Vikram P.</data>
+  <data key="d3">Patel</data>
+  <data key="d4">Vikram P. Patel</data>
+  <data key="d5">male</data>
+</node>
+<node id="4605731-2">
+  <data key="d2">David A.</data>
+  <data key="d3">Williams</data>
+  <data key="d4">David A. Williams</data>
+  <data key="d5">male</data>
+</node>
+<node id="6468808-2">
+  <data key="d2">Warren C. W.</data>
+  <data key="d3">Chan</data>
+  <data key="d4">Warren C. W. Chan</data>
+  <data key="d5">male</data>
+</node>
+<node id="5193206-1">
+  <data key="d2">Jonathan W.</data>
+  <data key="d3">Mills</data>
+  <data key="d4">Jonathan W. Mills</data>
+  <data key="d5">male</data>
+</node>
+<node id="3959567-1">
+  <data key="d2">Arthur T.</data>
+  <data key="d3">Bradley</data>
+  <data key="d4">Arthur T. Bradley</data>
+  <data key="d5">male</data>
+</node>
+<edge source="5905258-1" target="7838821-6">
+  <data key="d6">1</data>
+</edge>
+<edge source="5905258-1" target="7838821-4">
+  <data key="d6">1</data>
+</edge>
+<edge source="5905258-1" target="7838821-5">
+  <data key="d6">1</data>
+</edge>
+<edge source="5905258-1" target="7838821-3">
+  <data key="d6">1</data>
+</edge>
+<edge source="5905258-1" target="7838821-2">
+  <data key="d6">1</data>
+</edge>
+<edge source="4451396-1" target="4251439-2">
+  <data key="d6">1</data>
+</edge>
+<edge source="7294830-2" target="7893408-5">
+  <data key="d6">1</data>
+</edge>
+<edge source="7294830-2" target="4462685-2">
+  <data key="d6">3</data>
+</edge>
+<edge source="7294830-2" target="7893408-7">
+  <data key="d6">2</data>
+</edge>
+<edge source="7294830-2" target="7893408-3">
+  <data key="d6">2</data>
+</edge>
+<edge source="7294830-2" target="7893408-4">
+  <data key="d6">1</data>
+</edge>
+<edge source="7294830-2" target="7893408-6">
+  <data key="d6">1</data>
+</edge>
+<edge source="4462685-2" target="7893408-5">
+  <data key="d6">1</data>
+</edge>
+<edge source="4462685-2" target="7893408-7">
+  <data key="d6">2</data>
+</edge>
+<edge source="4462685-2" target="7893408-4">
+  <data key="d6">1</data>
+</edge>
+<edge source="4462685-2" target="7893408-3">
+  <data key="d6">2</data>
+</edge>
+<edge source="4462685-2" target="7893408-6">
+  <data key="d6">1</data>
+</edge>
+<edge source="6236877-1" target="5900928-2">
+  <data key="d6">1</data>
+</edge>
+<edge source="5116864-2" target="5116864-4">
+  <data key="d6">2</data>
+</edge>
+<edge source="5116864-2" target="5116864-1">
+  <data key="d6">2</data>
+</edge>
+<edge source="7997553-1" target="7997553-2">
+  <data key="d6">1</data>
+</edge>
+<edge source="4919140-1" target="7199110-2">
+  <data key="d6">1</data>
+</edge>
+<edge source="4156207-1" target="6437325-2">
+  <data key="d6">1</data>
+</edge>
+<edge source="4156207-1" target="7618806-2">
+  <data key="d6">1</data>
+</edge>
+<edge source="7724373-2" target="7724373-3">
+  <data key="d6">2</data>
+</edge>
+<edge source="7724373-2" target="7724373-1">
+  <data key="d6">2</data>
+</edge>
+<edge source="7724373-3" target="7724373-1">
+  <data key="d6">5</data>
+</edge>
+<edge source="7893408-7" target="7893408-5">
+  <data key="d6">1</data>
+</edge>
+<edge source="7893408-7" target="7893408-4">
+  <data key="d6">1</data>
+</edge>
+<edge source="7893408-7" target="7893408-3">
+  <data key="d6">2</data>
+</edge>
+<edge source="7893408-7" target="7893408-6">
+  <data key="d6">1</data>
+</edge>
+<edge source="6303029-1" target="6303029-2">
+  <data key="d6">1</data>
+</edge>
+<edge source="6303029-1" target="7736517-3">
+  <data key="d6">1</data>
+</edge>
+<edge source="6303029-1" target="7736517-4">
+  <data key="d6">1</data>
+</edge>
+<edge source="6303029-1" target="5625186-4">
+  <data key="d6">1</data>
+</edge>
+<edge source="6303029-1" target="7736517-5">
+  <data key="d6">1</data>
+</edge>
+<edge source="7348005-1" target="5580958-2">
+  <data key="d6">3</data>
+</edge>
+<edge source="4043905-1" target="6881588-2">
+  <data key="d6">1</data>
+</edge>
+<edge source="4043905-1" target="7968345-1">
+  <data key="d6">1</data>
+</edge>
+<edge source="8329143-3" target="7102878-1">
+  <data key="d6">1</data>
+</edge>
+<edge source="8329143-3" target="8076298-3">
+  <data key="d6">1</data>
+</edge>
+<edge source="6514995-2" target="6514995-1">
+  <data key="d6">1</data>
+</edge>
+<edge source="7838821-5" target="7838821-6">
+  <data key="d6">1</data>
+</edge>
+<edge source="7838821-5" target="7838821-4">
+  <data key="d6">1</data>
+</edge>
+<edge source="7838821-5" target="7838821-3">
+  <data key="d6">1</data>
+</edge>
+<edge source="7838821-5" target="7838821-2">
+  <data key="d6">1</data>
+</edge>
+<edge source="8076298-3" target="7102878-1">
+  <data key="d6">1</data>
+</edge>
+<edge source="8076298-3" target="6630138-3">
+  <data key="d6">1</data>
+</edge>
+<edge source="8076298-3" target="4992373-3">
+  <data key="d6">1</data>
+</edge>
+<edge source="6064180-4" target="5752482-4">
+  <data key="d6">1</data>
+</edge>
+<edge source="6064180-4" target="5193206-1">
+  <data key="d6">1</data>
+</edge>
+<edge source="6064180-4" target="8190299-8">
+  <data key="d6">1</data>
+</edge>
+<edge source="7560241-2" target="8124389-3">
+  <data key="d6">1</data>
+</edge>
+<edge source="7560241-2" target="5519003-1">
+  <data key="d6">1</data>
+</edge>
+<edge source="6063575-2" target="6063575-3">
+  <data key="d6">2</data>
+</edge>
+<edge source="6063575-2" target="7294471-5">
+  <data key="d6">1</data>
+</edge>
+<edge source="6659613-2" target="5016643-1">
+  <data key="d6">1</data>
+</edge>
+<edge source="6659613-2" target="3959567-1">
+  <data key="d6">1</data>
+</edge>
+<edge source="7838821-4" target="7838821-6">
+  <data key="d6">1</data>
+</edge>
+<edge source="7838821-4" target="7838821-3">
+  <data key="d6">1</data>
+</edge>
+<edge source="7838821-4" target="7838821-2">
+  <data key="d6">1</data>
+</edge>
+<edge source="7893408-3" target="7893408-5">
+  <data key="d6">1</data>
+</edge>
+<edge source="7893408-3" target="7893408-4">
+  <data key="d6">1</data>
+</edge>
+<edge source="7893408-3" target="7893408-6">
+  <data key="d6">1</data>
+</edge>
+<edge source="5116864-1" target="5116864-4">
+  <data key="d6">2</data>
+</edge>
+<edge source="6670195-2" target="5879883-4">
+  <data key="d6">1</data>
+</edge>
+<edge source="8190299-8" target="5752482-4">
+  <data key="d6">1</data>
+</edge>
+<edge source="8190299-8" target="5193206-1">
+  <data key="d6">1</data>
+</edge>
+<edge source="6630138-3" target="4992373-3">
+  <data key="d6">1</data>
+</edge>
+<edge source="7893408-6" target="7893408-5">
+  <data key="d6">1</data>
+</edge>
+<edge source="7893408-6" target="7893408-4">
+  <data key="d6">1</data>
+</edge>
+<edge source="7893408-5" target="7893408-4">
+  <data key="d6">1</data>
+</edge>
+<edge source="7186507-2" target="7186507-1">
+  <data key="d6">1</data>
+</edge>
+<edge source="5625186-4" target="7736517-3">
+  <data key="d6">1</data>
+</edge>
+<edge source="5625186-4" target="7736517-4">
+  <data key="d6">1</data>
+</edge>
+<edge source="5625186-4" target="7736517-5">
+  <data key="d6">1</data>
+</edge>
+<edge source="7758882-2" target="7758882-1">
+  <data key="d6">1</data>
+</edge>
+<edge source="7838821-3" target="7838821-6">
+  <data key="d6">1</data>
+</edge>
+<edge source="7838821-3" target="7838821-2">
+  <data key="d6">1</data>
+</edge>
+<edge source="8260009-2" target="8260009-1">
+  <data key="d6">1</data>
+</edge>
+<edge source="7838821-2" target="7838821-6">
+  <data key="d6">1</data>
+</edge>
+<edge source="5752482-4" target="5193206-1">
+  <data key="d6">1</data>
+</edge>
+<edge source="5519003-1" target="8124389-3">
+  <data key="d6">1</data>
+</edge>
+<edge source="7968345-1" target="6881588-2">
+  <data key="d6">1</data>
+</edge>
+<edge source="7981667-2" target="6468808-1">
+  <data key="d6">1</data>
+</edge>
+<edge source="6468808-1" target="6468808-2">
+  <data key="d6">1</data>
+</edge>
+<edge source="6468808-1" target="6468808-3">
+  <data key="d6">1</data>
+</edge>
+<edge source="7736517-4" target="7736517-3">
+  <data key="d6">1</data>
+</edge>
+<edge source="7736517-4" target="7736517-5">
+  <data key="d6">1</data>
+</edge>
+<edge source="5016643-1" target="3959567-1">
+  <data key="d6">1</data>
+</edge>
+<edge source="6063575-3" target="7294471-5">
+  <data key="d6">1</data>
+</edge>
+<edge source="6468808-3" target="6468808-2">
+  <data key="d6">1</data>
+</edge>
+<edge source="7736517-3" target="7736517-5">
+  <data key="d6">1</data>
+</edge>
+<edge source="5686278-2" target="4605731-2">
+  <data key="d6">1</data>
+</edge>
+</graph></graphml>
