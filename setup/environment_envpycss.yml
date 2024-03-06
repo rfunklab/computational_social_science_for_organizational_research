@@ -1,0 +1,38 @@
+name: envpycss
+channels:
+  - conda-forge
+  - huggingface
+  - pytorch
+dependencies:
+  - bokeh
+  - fiona
+  - geopandas
+  - geopy
+  - gudhi
+  - jupyterlab
+  - mapclassify
+  - matplotlib 
+  - networkx
+  - numpy
+  - palettable
+  - pandas
+  - pycairo 
+  - pygraphviz
+  - pymysql
+  - python-igraph
+  - rpy2
+  - sage 
+  - scipy
+  - seaborn
+  - spacy
+  - sqlalchemy
+  - tqdm
+  - html2text
+  - statsmodels
+  - requests
+  - openssl
+  - transformers
+  - pytorch 
+  - torchvision   
+  - torchaudio
+  - dask  
