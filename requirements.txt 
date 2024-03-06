@@ -1,0 +1,14 @@
+jupyter
+matplotlib
+seaborn
+spacy
+networkx
+scikit-learn
+pandas
+numpy
+geopy
+geopandas
+palettable
+pysal
+textblob
+networkx
