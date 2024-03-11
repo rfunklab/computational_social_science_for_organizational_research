@@ -12,3 +12,5 @@ palettable
 pysal
 textblob
 networkx
+pymysql
+sqlalchemy
